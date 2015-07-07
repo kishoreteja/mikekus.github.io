@@ -1,0 +1,18 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item shopify\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/shopify/1.gif\" alt=\"Header t-shirt design\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>At the heart of what we do</h1>\n    <p><a href=\"http://shopify.com\">Shopify</a> kindly ask me to design a shirt around the concept of 'Design is at the heart of what we do'. They gifted it to the attendees of <a href=\"http://aneventapart.com/\">An Event Apart</a>. I illustrated a human heart using hand drawn type. I also decided to <a href=\"http://vimeo.com/94345134\">record the process</a>. You can watch it in the film below. If you'd like to get one of these shirts, there are a limited number <a href=\"http://mikekus.myshopify.com\">available here</a>.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/shopify/2.png\" class=\"small\" alt=\"T-shirt\" />\n    <div class=\"portfolio-item__links\">\n      <a href=\"http://mikekus.myshopify.com\">Available Here</a>\n    </div>\n  </section>\n  <section class=\"portfolio-item__grid\">\n    <div class=\"fixed\">\n      <div>\n        <img src=\"/assets/img/portfolio/shopify/3.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/shopify/4.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/shopify/5.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/shopify/6.jpg\" alt=\"Slide design\" />\n      </div>\n    </div>\n  </section>\n  <section class=\"portfolio-item__video\">\n    <div>\n      <iframe src=\"//player.vimeo.com/video/94345134?color=1941c4\" width=\"800\" height=\"450\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-28T00:00:00Z",
+      "link": "http://shopify.com/",
+      "portfolio": true,
+      "slug": "/portfolio/shopify",
+      "summary": "Shopify kindly ask me to design a shirt around the concept of \"Design is at the heart of what we do\". They gifted it to the attendees of An Event Apart. I illustrated a human heart using hand drawn type. I also decided to record the process. You can watch it in the film below. If you'd like to get one of these shirts, there are a limited number available here.",
+      "thumb": "/assets/img/portfolio/shopify/thumb.jpg",
+      "title": "At the heart of what we do"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

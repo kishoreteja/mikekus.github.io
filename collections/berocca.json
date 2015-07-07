@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item berocca\">\n <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/berocca/home.png\" alt=\"Berocca header image\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Berocca Posters</h1>\n    <p>I was commissioned by The Campaign Palace &amp; Berocca to create this series of posters for Berocca Twist 'n' Go. The posters were rolled out across Australia. You can see the posters in context at the bottom of this page.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/berocca/2.jpg\" class=\"small\" alt=\"Berocca poster image\" />\n    <img src=\"/assets/img/portfolio/berocca/3.jpg\" class=\"small\" alt=\"Berocca poster image\" />\n    <img src=\"/assets/img/portfolio/berocca/4.jpg\" class=\"small\" alt=\"Berocca poster image\" />\n    <img src=\"/assets/img/portfolio/berocca/5.jpg\" class=\"small\" alt=\"Berocca posters at bus stand\" />\n  </section>\n</div>\n",
+      "date": "2014-01-25T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/berocca/home.png",
+      "homestyle": "berocca-home",
+      "portfolio": false,
+      "slug": "/portfolio/berocca",
+      "summary": "I was commissioned by The Campaign Palace &amp; Berocca to create this series of posters for Berocca Twist 'n' Go. The posters were rolled out across Australia. You can see the posters in context at the bottom of this page.",
+      "thumb": "/assets/img/portfolio/berocca/thumb.jpg",
+      "title": "Berocca Posters",
+      "whitenav": true
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

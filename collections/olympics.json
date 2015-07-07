@@ -1,0 +1,20 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item olympics\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/olympics/1.png\" alt=\"Olympics logo\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Olympics 2012</h1>\n    <p>With the Olympics in town in 2012, I was compelled to produce this series of posters to commemorate the games coming to London. I played with the idea of likening the athletes' abilities to that of animals with legendary abilities in the same area.</p>\n  </section>\n  <section class=\"portfolio-item__grid\">\n    <div class=\"fixed\">\n      <div>\n        <img src=\"/assets/img/portfolio/olympics/1.jpg\" alt=\"Olympics Swim poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/olympics/2.jpg\" alt=\"Olympics Jump poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/olympics/3.jpg\" alt=\"Olympics Run poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/olympics/4.jpg\" alt=\"Olympics Fly poster\" />\n      </div>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-24T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/olympics/home.png",
+      "homestyle": "olympics-home",
+      "portfolio": true,
+      "slug": "/portfolio/olympics",
+      "summary": "With the Olympics in town in 2012, I was compelled to produce this series of posters to commemorate the games coming to London. I played with the idea of likening the athletes' abilities to that of animals with legendary abilities in the same area.",
+      "thumb": "/assets/img/portfolio/olympics/thumb.jpg",
+      "title": "Olympics 2012"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

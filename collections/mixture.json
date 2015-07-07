@@ -1,0 +1,17 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item mixture\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/mixture/1.gif\" alt=\"Mixture tape cassette illustration\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Mixture</h1>\n    <p>As part of the Mixture team I designed the first version of the Mixture app. I also designed this series of Illustrations to support the Mixture marketing campaign.</p>\n  </section>\n  <section class=\"portfolio-item__mixture\">\n    <div class=\"one\">\n      <img src=\"/assets/img/portfolio/mixture/2.gif\" class=\"small\" alt=\"Mixture sweets and candy illustration\" />\n    </div>\n    <div class=\"two\">\n      <img src=\"/assets/img/portfolio/mixture/3.gif\" class=\"small\" alt=\"Mixture record player illustration\" />\n    </div>\n    <div class=\"three\">\n      <img src=\"/assets/img/portfolio/mixture/4.gif\" class=\"small\" alt=\"Mixture food mixer illustration\" />\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-28T00:00:00Z",
+      "portfolio": true,
+      "slug": "/portfolio/mixture",
+      "summary": "As part of the Mixture team I designed the first version of the Mixture app. I also designed this series of Illustrations to support the Mixture marketing campaign.",
+      "thumb": "/assets/img/portfolio/mixture/thumb.png",
+      "title": "Mixture"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

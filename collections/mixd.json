@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item mixd\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/mixd/1.png\" alt=\"Pencil Image\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>MIXD</h1>\n    <p>I redesigned the identity and website for web agency, MIXD. The linchpin to this design was the concept of \"Beautiful Form, Perfect Function\". This phrase is designed to describe what MIXD provide as a web agency. The website design is built around this principle.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/mixd/2.gif\" class=\"tiny\" alt=\"Mixd Logo\" />\n    <img src=\"/assets/img/portfolio/mixd/3.jpg\" class=\"small\" alt=\"Mixd homepage\" />\n    <img src=\"/assets/img/portfolio/mixd/4.jpg\" class=\"small\" alt=\"Mixd homepage\" />\n    <img src=\"/assets/img/portfolio/mixd/5.gif\" alt=\"Mixd Appraoch page\" />\n    <img src=\"/assets/img/portfolio/mixd/6.jpg\" class=\"small\" alt=\"Mixd homepage\" />\n    <div class=\"portfolio-item__links\">\n      <a href=\"http://mixd.co.uk\">View Website</a>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-30T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/mixd/home.png",
+      "homestyle": "mixd-home",
+      "link": "http://mixd.co.uk",
+      "portfolio": true,
+      "slug": "/portfolio/mixd",
+      "summary": "I redesigned the identity and website for web agency, MIXD. The linchpin to this design was the concept of \"Beautiful Form, Perfect Function\". This phrase is designed to describe what MIXD provide as a web agency. The website design is built around this principle.",
+      "thumb": "/assets/img/portfolio/mixd/thumb.jpg",
+      "title": "MIXD"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

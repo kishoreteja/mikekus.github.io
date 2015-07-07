@@ -1,0 +1,18 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item amazee\">\n <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/amazee/1.gif\" alt=\"Amazee page header image\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Amazee Labs</h1>\n    <p>I designed the identity and website for Swiss based agency Amazee Labs. I illustrated much of the imagery for this website to create a handmade aesthetic.</p>\n  </section>\n  <section class=\"portfolio-item__amazee js-img\">\n    <img src=\"/assets/img/portfolio/amazee/2.gif\" alt=\"Amazee light bulb image\" />\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/amazee/3.jpg\" class=\"small\" alt=\"Amazee screen shot of website\" />\n    <img src=\"/assets/img/portfolio/amazee/4.jpg\" class=\"small\" alt=\"Amazee screen shot of website\" />\n  </section>\n</div>\n",
+      "date": "2014-01-22T00:00:00Z",
+      "link": "http://amazeelabs.com",
+      "portfolio": true,
+      "slug": "/portfolio/amazee",
+      "summary": "I designed the identity and website for Swiss based agency Amazee Labs. I illustrated much of the imagery for this website to create a handmade aesthetic.",
+      "thumb": "/assets/img/portfolio/amazee/thumb.jpg",
+      "title": "Amazee Labs"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

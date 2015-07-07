@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item craftsmen\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/craftsmen/1.gif\" alt=\"pixel glasses illustration\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Craftsmen</h1>\n    <p>I was asked by French Digital Agency, Craftsmen to design their new identity and website. The logo is inspired by a tool of a craftsman, the \"Wood Plane\". I combined this with an 8-bit graphic inspired website design which communicates the very essence of the word 'Digital'.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/craftsmen/2.png\" class=\"tiny\" alt=\"Craftsmen logo\" />\n    <img src=\"/assets/img/portfolio/craftsmen/3.gif\" class=\"small\" alt=\"Craftsmen homepage\" />\n    <img src=\"/assets/img/portfolio/craftsmen/4.gif\" class=\"small\" alt=\"Craftsmen homepage\" />\n    <img src=\"/assets/img/portfolio/craftsmen/5.jpg\" class=\"small\" alt=\"Craftsmen t-shirt\" />\n    <img src=\"/assets/img/portfolio/craftsmen/6.gif\" class=\"small\" alt=\"Craftsmen about page\" />\n    <img src=\"/assets/img/portfolio/craftsmen/7.gif\" class=\"small\" alt=\"Craftsmen design and build page\" />\n    <div class=\"portfolio-item__links\">\n      <a href=\"http://craftsmen.io\">View Website</a>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-31T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/craftsmen/home.gif",
+      "homestyle": "craftsmen-home",
+      "link": "http://craftsmen.io",
+      "portfolio": true,
+      "slug": "/portfolio/craftsmen",
+      "summary": "I was asked by French Digital Agency, Craftsmen to design their new identity and website. The logo is inspired by a tool of a craftsman, the \"Wood Plane\". I combined this with an 8-bit graphic inspired website design which communicates the very essence of the word 'Digital'.",
+      "thumb": "/assets/img/portfolio/craftsmen/thumb.png",
+      "title": "Craftsmen"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

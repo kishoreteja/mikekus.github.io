@@ -1,0 +1,17 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item in-everyone\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/in-everyone/1.gif\" alt=\"In Everyone logo\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>In Everyone Album Art</h1>\n    <p>I designed and illustrated the album artwork for Oli Hite's debut album 'In Everyone'. The project was inspired by old print copies of Charles Dickens novels.</p>\n  </section>\n  <section class=\"portfolio-item__plain\">\n    <div>\n      <img src=\"/assets/img/portfolio/in-everyone/2.jpg\" class=\"small\" alt=\"Album sleeve illustration\" />\n    </div>\n    <div>\n      <img src=\"/assets/img/portfolio/in-everyone/3.jpg\" class=\"small\" alt=\"Album sleeve illustration\" />\n    </div>\n    <div>\n      <img src=\"/assets/img/portfolio/in-everyone/4.jpg\" alt=\"Album sleeve outer cover\" />\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-16T00:00:00Z",
+      "portfolio": false,
+      "slug": "/portfolio/in-everyone",
+      "summary": "I designed and illustrated the album artwork for Oli Hite's debut album 'In Everyone'. The project was inspired by old print copies of Charles Dickens novels.",
+      "thumb": "/assets/img/portfolio/in-everyone/thumb.jpg",
+      "title": "In Everyone Album Art"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item smashing\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/smashing/1.png\" alt=\"Smashing Mobile book cover\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Smashing Mobile Book</h1>\n    <p>I was commissioned by Smashing Magazine to design the book cover and a series of Internal illustrations for their book \"The Mobile Book\". I took an abstract graphical approach to visualise each section of the book.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/smashing/2.jpg\" alt=\"Smashing Mobile book Responsive illustration\" />\n    <img src=\"/assets/img/portfolio/smashing/3.jpg\" class=\"small\" alt=\"Smashing Mobile book Mobile Landscape illustration\" />\n    <img src=\"/assets/img/portfolio/smashing/4.jpg\" class=\"small\" alt=\"Smashing Mobile book Mobile Platforms illustration\" />\n    <img src=\"/assets/img/portfolio/smashing/5.jpg\" class=\"small\" alt=\"Smashing Mobile book UX Design illustration\" />\n  </section>\n</div>\n",
+      "date": "2014-01-26T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/smashing/home.jpg",
+      "homestyle": "smashing-home",
+      "portfolio": true,
+      "slug": "/portfolio/smashing",
+      "summary": "I was commissioned by Smashing Magazine to design the book cover and a series of Internal illustrations for their book \"The Mobile Book\". I took an abstract graphical approach to visualise each section of the book.",
+      "thumb": "/assets/img/portfolio/smashing/thumb.jpg",
+      "title": "Smashing Mobile Book",
+      "whitenav": true
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

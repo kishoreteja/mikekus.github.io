@@ -1,0 +1,18 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item giftrocket\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/giftrocket/1.gif\" alt=\"GiftRocket logo\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>GiftRocket</h1>\n    <p>I designed the identity, web app and marketing website for San Francisco based startup, GiftRocket. GiftRocket is an app that reinvents the idea of the gift voucher. Buy a gift voucher for a friend, for anything you can think off.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/giftrocket/2.gif\" class=\"tiny\" alt=\"GiftRocket illustration\" />\n    <img src=\"/assets/img/portfolio/giftrocket/3.gif\" class=\"small\" alt=\"GiftRocket homepage\" />\n    <img src=\"/assets/img/portfolio/giftrocket/4.gif\" class=\"small\" alt=\"GiftRocket why us page\" />\n    <img src=\"/assets/img/portfolio/giftrocket/5.gif\" class=\"small\" alt=\"GiftRocket how it works page\" />\n    <div class=\"portfolio-item__links\">\n      <a href=\"http://www.giftrocket.com/\">View Website</a>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-23T00:00:00Z",
+      "link": "http://www.giftrocket.com/",
+      "portfolio": true,
+      "slug": "/portfolio/giftrocket",
+      "summary": "I designed the identity, web app and marketing website for San Francisco based startup, GiftRocket. GiftRocket is an app that reinvents the idea of the gift voucher. Buy a gift voucher for a friend, for anything you can think off.",
+      "thumb": "/assets/img/portfolio/giftrocket/thumb.png",
+      "title": "GiftRocket"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

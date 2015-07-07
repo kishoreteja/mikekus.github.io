@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item create-dm\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/create-dm/1.gif\" alt=\"Pair of compasses illustration\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Create DM</h1>\n    <p>I designed the website for Tunbridge Wells based App development agency, CreateDM. Inspired by my print design background, I created a series of illustrations for the site based upon the layering of CMYK objects. I then combined these illustrations with a simple black &amp; white interface.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/create-dm/2.gif\" class=\"small\" alt=\"Create DM homepage\" />\n    <img src=\"/assets/img/portfolio/create-dm/3.gif\" alt=\"Create DM iconography\" />\n    <img src=\"/assets/img/portfolio/create-dm/4.jpg\" class=\"small\" alt=\"Create DM About page\" />\n    <div class=\"portfolio-item__links\">\n      <a href=\"http://createdm.com/\">View Website</a>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-27T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/create-dm/home.gif",
+      "homestyle": "create-dm-home",
+      "link": "http://createdm.com/",
+      "portfolio": true,
+      "slug": "/portfolio/create-dm",
+      "summary": "I designed the website for Tunbridge Wells based App development agency, CreateDM. Inspired by my print design background, I created a series of illustrations for the site based upon the layering of CMYK objects. I then combined these illustrations with a simple black &amp; white interface.",
+      "thumb": "/assets/img/portfolio/create-dm/thumb.png",
+      "title": "Create DM"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

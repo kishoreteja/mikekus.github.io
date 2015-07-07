@@ -1,0 +1,22 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item future-insights\">\n <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/future-insights/1.png\" alt=\"picture of hand and phone\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Future Insights</h1>\n    <p>I redesigned the Future Insights website for 2013/14. Future Insights is a well known tech conference company that holds events across the globe. Future Insights is a family of tech events, hence the design was duplicated in four different colour palettes to represent each event type.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/future-insights/2.jpg\" alt=\"Future Insights homepage and phone\" />\n    <img src=\"/assets/img/portfolio/future-insights/3.gif\" class=\"small\" alt=\"Future Insights icons\" />\n    <div class=\"portfolio-item__links\">\n      <a href=\"http://futureinsightslive.com/las-vegas-2014/\">View Website</a>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-29T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/future-insights/home.png",
+      "homestyle": "future-insights-home",
+      "link": "http://futureinsightslive.com/las-vegas-2014/",
+      "portfolio": true,
+      "slug": "/portfolio/future-insights",
+      "summary": "I redesigned the Future Insights website for 2013/14. Future Insights is a well known tech conference company that holds events across the globe. Future Insights is a family of tech events, hence the design was duplicated in four different colour palettes to represent each event type.",
+      "thumb": "/assets/img/portfolio/future-insights/thumb.jpg",
+      "title": "Future Insights",
+      "whitenav": true
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

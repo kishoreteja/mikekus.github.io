@@ -1,0 +1,17 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item carsonified\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/carsonified/1.gif\" alt=\"Ryan Carson illustration\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Carsonified</h1>\n    <p>Whilst at Carsonified, I redesigned the company website. I hand drew the illustrations throughout this site, including all of the company team members. I also employed a \"two colour per page\" theme, whereby every page consisted of only a single foreground colour and a background colour.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/carsonified/2.jpg\" class=\"small\" alt=\"Carsonified home page\" />\n    <img src=\"/assets/img/portfolio/carsonified/3.jpg\" class=\"small\" alt=\"Carsonified mission page\" />\n    <img src=\"/assets/img/portfolio/carsonified/4.jpg\" class=\"small\" alt=\"Carsonified events page\" />\n    <img src=\"/assets/img/portfolio/carsonified/5.jpg\" class=\"small\" alt=\"Carsonified careers page\" />\n  </section>\n  <section class=\"portfolio-item__carson\">\n    <div class=\"one\">\n      <img src=\"/assets/img/portfolio/carsonified/6.png\" alt=\"Michael Poley illustration\" />\n    </div>\n    <div class=\"two\">\n      <img src=\"/assets/img/portfolio/carsonified/7.png\" alt=\"Cat Clarke illustration\" />\n    </div>\n    <div class=\"three\">\n      <img src=\"/assets/img/portfolio/carsonified/8.png\" alt=\"Gillian Carson illustration\" />\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-17T00:00:00Z",
+      "portfolio": true,
+      "slug": "/portfolio/carsonified",
+      "summary": "Whilst at Carsonified, I redesigned the company website. I hand drew the illustrations throughout this site, including all of the company team members. I also employed a \"two colour per page\" theme, whereby every page consisted of only a single foreground colour and a background colour.",
+      "thumb": "/assets/img/portfolio/carsonified/thumb.png",
+      "title": "Carsonified"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

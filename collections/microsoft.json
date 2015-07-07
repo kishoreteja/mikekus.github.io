@@ -1,0 +1,17 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item microsoft\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/microsoft/1.gif\" alt=\"illustration detail\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Microsoft Banners</h1>\n    <p>I designed and illustrated these display banners for Microsoft's sponsor stand for tech conferences. The theme of the banners being 'There's more to Microsoft than you think'. The goal was to break down people's preconceptions of Microsoft as a company.</p>\n  </section>\n  <section class=\"portfolio-item__grid\">\n    <div class=\"fixed\">\n      <div>\n        <img src=\"/assets/img/portfolio/microsoft/2.jpg\" alt=\"Illustrated Microsoft banner\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/microsoft/3.jpg\" alt=\"Illustrated Microsoft banner\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/microsoft/4.jpg\" alt=\"Illustrated Microsoft banner\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/microsoft/5.jpg\" alt=\"Illustrated Microsoft banner\" />\n      </div>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-20T00:00:00Z",
+      "portfolio": true,
+      "slug": "/portfolio/microsoft",
+      "summary": "I designed and illustrated these display banners for Microsoft's sponsor stand for tech conferences. The theme of the banners being 'There's more to Microsoft than you think'. The goal was to break down people's preconceptions of Microsoft as a company.",
+      "thumb": "/assets/img/portfolio/microsoft/thumb.jpg",
+      "title": "Microsoft Banners"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

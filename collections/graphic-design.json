@@ -1,0 +1,17 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item graphic-design\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/graphic-design/1.jpg\" alt=\"Grid of slide designs image\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Graphic Design</h1>\n    <p>As part of a conference talk I gave, entitled Graphic Design - The Forgotten Web Standard, I designed a series of slides and a poster for the talk. I also recorded a time-lapse film of the making of the slides. You can view this at the bottom of this page.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/graphic-design/2.jpg\" class=\"small\" alt=\"graphic Design poster\" />\n  </section>\n  <section class=\"portfolio-item__grid\">\n    <div class=\"fixed\">\n      <div>\n        <img src=\"/assets/img/portfolio/graphic-design/3.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/graphic-design/4.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/graphic-design/5.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/graphic-design/6.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/graphic-design/7.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/graphic-design/8.jpg\" alt=\"Slide design\" />\n      </div>\n    </div>\n  </section>\n  <section class=\"portfolio-item__video\">\n    <div>\n      <iframe src=\"//player.vimeo.com/video/4494324?color=1941c4\" width=\"800\" height=\"501\" frameborder=\"0\" webkitallowfullscreen=\"\" mozallowfullscreen=\"\" allowfullscreen=\"\"></iframe>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-18T00:00:00Z",
+      "portfolio": true,
+      "slug": "/portfolio/graphic-design",
+      "summary": "As part of a conference talk I gave, entitled Graphic Design - The Forgotten Web Standard, I designed a series of slides and a poster for the talk. I also recorded a time-lapse film of the making of the slides. You can view this at the bottom of this page.",
+      "thumb": "/assets/img/portfolio/graphic-design/thumb.jpg",
+      "title": "Graphic Design"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

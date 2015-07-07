@@ -1,0 +1,21 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item stamps\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/stamps/1.png\" alt=\"IndieRef Commemorative Stamps Cover\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>#IndyRef Stamps</h1>\n    <p>To mark the occasion of the Scottish independance referendum I designed a set of commemorative stamps, I hand painted a selection of politions from both sides of the debate. David Cameron, Alex Salmond, Ed Miliband &amp; Nicola Sturgeon.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/stamps/2.jpg\" class=\"tiny\" alt=\"David Cameron\" />\n    <img src=\"/assets/img/portfolio/stamps/3.jpg\" class=\"tiny\" alt=\"Alex Salmonds\" />\n    <img src=\"/assets/img/portfolio/stamps/4.jpg\" class=\"tiny\" alt=\"Ed Milliband\" />\n    <img src=\"/assets/img/portfolio/stamps/5.jpg\" class=\"tiny\" alt=\"Nicola Sturgeon\" />\n    <img src=\"/assets/img/portfolio/stamps/6.jpg\" class=\"small\" alt=\"Stamps on envelopes\" />\n  </section>\n</div>\n",
+      "date": "2014-09-20T00:00:00Z",
+      "home": true,
+      "homeimage": "/assets/img/portfolio/stamps/home.jpg",
+      "homestyle": "stamp-home",
+      "portfolio": true,
+      "slug": "/portfolio/stamps",
+      "summary": "To mark the occasion of the Scottish independance referendum I designed a set of commemorative stamps, I hand painted a selection of politions from both sides of the debate. David Cameron, Alex Salmond, Ed Miliband & Nicola Sturgeon.",
+      "thumb": "/assets/img/portfolio/stamps/thumb.jpg",
+      "title": "#IndyRef Stamps",
+      "whitenav": true
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

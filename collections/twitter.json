@@ -1,0 +1,17 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item twitter\">\n  <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/twitter/1.png\" alt=\"Twitter Logo\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Twitter Posters</h1>\n    <p>As part of the Twitter developer conference, I designed these posters based on world famous tweets. They include a tweet from Barack Obama and one from the Mars Phoenix.</p>\n  </section>\n  <section class=\"portfolio-item__grid\">\n    <div class=\"fixed\">\n      <div>\n        <img src=\"/assets/img/portfolio/twitter/2.jpg\" alt=\"Twitter jkrums poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/twitter/3.jpg\" alt=\"Twitter Barack Obama poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/twitter/4.jpg\" alt=\"Twitter marriage poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/twitter/5.jpg\" alt=\"Twitter first ever tweet poster\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/twitter/6.jpg\" alt=\"Twitter Mars Phoenix poster\" />\n      </div>\n    </div>\n  </section>\n</div>\n",
+      "date": "2014-01-19T00:00:00Z",
+      "portfolio": true,
+      "slug": "/portfolio/twitter",
+      "summary": "As part of the Twitter developer conference, I designed these posters based on world famous tweets. They include a tweet from Barack Obama and one from the Mars Phoenix.",
+      "thumb": "/assets/img/portfolio/twitter/thumb.jpg",
+      "title": "Twitter Posters"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}
