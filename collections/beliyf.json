@@ -1,0 +1,18 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item beliyf\">\n <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/beliyf/1.png\" alt=\"invision\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>Beliyf</h1>\n    <p><a href=\"http://beliyf.com\">Beliyf</a> are organisational culture and identity specialists. Their mission is to help companies articulate who they are, and why they matter. I was commissioned to rebrand Beliyf as well as design their web presence. I wrote a post about the design thinking behind this project and you can read it on <a href=\"https://medium.com/@mikekus/designing-beliyf-1209a228cfc1#.w587c1ih9\">Medium</a>.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/beliyf/1.jpg\" class=\"small\" alt=\"Design work\" />\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/beliyf/2.jpg\" class=\"small\" alt=\"Design work\" />\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/beliyf/3.jpg\" class=\"small\" alt=\"Design work\" />\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/beliyf/4.jpg\" class=\"small\" alt=\"Design work\" />\n  </section>\n</div>\n",
+      "date": "2015-12-06T00:00:00Z",
+      "link": "http://belify.com/",
+      "portfolio": true,
+      "slug": "/portfolio/beliyf",
+      "summary": "Beliyf are organisational culture and identity specialists. Their mission is to help companies articulate who they are, and why they matter. I was commissioned to rebrand Beliyf as well as design their web presence. I wrote a post about the design thinking behind this project and you can read it on Medium.",
+      "thumb": "/assets/img/portfolio/beliyf/thumb.jpg",
+      "title": "Beliyf"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}

@@ -1,0 +1,18 @@
+{
+  "collection": [
+    {
+      "body": "\n<div class=\"portfolio-item invision\">\n <section class=\"portfolio-item__header js-img\">\n    <img src=\"/assets/img/portfolio/invision/home.jpg\" alt=\"invision\" />\n  </section>\n  <section class=\"portfolio-item__text js-text\">\n    <h1>InVision</h1>\n    <p><a href=\"http://invisionapp.com\">Invision</a> asked me to design a poster and t-shirt design around the phrase ‘Design Makes Everything Possible’. I applied each letter to a grid and modified each letter. I then accented the design by overlaying larger versions of the first letter from each word. You can purchase this t-shirt and poster over at the <a href=\"http://marketplace.invisionapp.com/products/design-makes-everything-possible-mike-kus\">Invision Marketplace</a>.</p>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/invision/2.jpg\" class=\"small\" alt=\"T-shirt\" />\n  </section>\n  <section class=\"portfolio-item__grid\">\n    <div class=\"fixed\">\n      <div>\n        <img src=\"/assets/img/portfolio/invision/3.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/invision/4.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/invision/5.jpg\" alt=\"Slide design\" />\n      </div>\n      <div>\n        <img src=\"/assets/img/portfolio/invision/6.jpg\" alt=\"Slide design\" />\n      </div>\n    </div>\n  </section>\n  <section class=\"portfolio-item__plain js-img\">\n    <img src=\"/assets/img/portfolio/invision/7.jpg\" class=\"small\" alt=\"T-shirt\" />\n  </section>\n</div>\n",
+      "date": "2015-12-06T00:00:00Z",
+      "link": "http://invision.com/",
+      "portfolio": true,
+      "slug": "/portfolio/invision",
+      "summary": "Invision asked me to design a poster and t-shirt design around the phrase \"Design Makes Everything Possible\". I applied each letter to a grid and modified each letter. I then accented the design by overlaying larger versions of the first letter from each word. You can purchase this t-shirt and poster over at the Invision Marketplace.",
+      "thumb": "/assets/img/portfolio/invision/thumb.jpg",
+      "title": "InVision"
+    }
+  ],
+  "page": 1,
+  "records_per_page": 50,
+  "total_pages": 1,
+  "total_records": 1
+}
